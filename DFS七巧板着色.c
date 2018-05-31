@@ -1,6 +1,4 @@
-
 #include<stdio.h>
-#include<malloc.h>
 int OK(int pMap[][7],int i)
 {
 	if (pMap[i][i])
